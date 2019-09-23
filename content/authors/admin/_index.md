@@ -71,4 +71,4 @@ email: ""
 #- Visitors
 ---
 
-Jyotikrishna Dass is a Ph.D. Candidate in Computer Engineering at Embedded Systems & Codesign Lab in Texas A&M University. He is advised by Prof. Rabi Mahapatra. His dissertation focuses on distributed training of large-scale machine learning.
+Jyotikrishna Dass is a Ph.D. Candidate in Department of Computer Science and Engineering at Texas A&M University. He is advised by Prof. Rabi Mahapatra in Embedded Systems & Codesign Lab. His dissertation focuses on distributed training of large-scale machine learning.

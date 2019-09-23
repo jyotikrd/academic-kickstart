@@ -60,7 +60,7 @@ time_format = "3:04 PM"
 # Enter contact details (optional). To hide a field, clear it to "".
 email = "dass.jyotikrishna@tamu.edu"
 phone = "979 985 0856"
-address = " 710 Ross St, HRBB 514B TAMU, College Station, TX"
+address = "1501 Northpoint Ln, #1406, College Station, TX 77840"
 
 # Office hours: use `<br>` to insert a line break, or set to "" to remove office hours
 #office_hours = """Monday 10:00 to 13:00<br>
